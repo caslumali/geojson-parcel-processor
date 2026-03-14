@@ -1,5 +1,9 @@
 # GeoJSON Parcel Processing Project
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-000000?style=flat)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+
 This project was produced as the final result of the course *Algorithmique et Programmation Orientées Objet* conducted during the SIGMA master's program at Université Toulouse 2 - Jean Jaurès.
 
 
